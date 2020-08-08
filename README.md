@@ -2,10 +2,6 @@
 
 ## Reprograma Git e Github
 
-
-/// Git Imagem ///
-![GitHub Logo](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
-
 ### Git
 
 ![Git Logo](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
